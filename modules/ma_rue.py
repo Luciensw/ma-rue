@@ -19,5 +19,5 @@ def affiche(canvas) :
 # Test
 
 # Affichage du canvas rue pour un test
-if name == main :
+if __name__ == '__main__':
     affiche(rue)
