@@ -29,3 +29,8 @@ def toit1(x, niveau):
     # Tests
 affiche(rue)
 toit1(rue.width/2, 0)
+
+# Autres tests
+for i in range(5) :
+    for j in range(1, 6) :
+        toit1(0 + 200 * i, j)
