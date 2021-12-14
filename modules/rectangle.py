@@ -23,7 +23,7 @@ def rectangle(x,y,w,h,c):
     rue.stroke_rect(x-(w/2),y-h,w,h)
 
 # Tests
-if name == main :
+if __name__ == __main__ :
     affiche(rue)
     rectangle(0, 50,200,100,'YellowGreen')
     rectangle(800, 450,200,100,'plum')
