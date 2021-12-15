@@ -26,6 +26,8 @@ if __name__ == '__main__' :
     for n in range(6) :
         facade(rue.width/2, couleur, n)
 #Autres tests
+    from couleur_aleatoire import couleur_aleatoire
+    affiche(rue)
     couleur = couleur_aleatoire()
     for n in range(1,11,2) :
         facade(rue.width/2, couleur, n)
