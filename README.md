@@ -4,6 +4,10 @@ Go dessiner ma rue.
 ## to do :
 - toit2.py
 - facade.py
+- sol.py
+- rdc.py
+- etage.py
+- toit.py
 
 ## in progress :
 - portes.py
