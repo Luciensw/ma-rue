@@ -2,13 +2,19 @@
 Go dessiner ma rue.
 
 to do :
--
+- toit2.py
 
-en cours :
--
+in progress :
+- portes.py
+- balcon.py
+- fenetre.py
 
 done :
 -
 
-testé :
--
+testé/validé :
+- rectangle.py
+- toit1.py
+- trait.py
+- github.py
+- couleur_aleatoire.py
