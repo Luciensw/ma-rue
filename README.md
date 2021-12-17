@@ -10,16 +10,16 @@ Go dessiner ma rue.
 - toit.py
 
 ## in progress :
-- portes.py
-- balcon.py
-- fenetre.py
+- portes.py (tom)
+- balcon.py (kylian)
+- fenetre.py (léa)
 
 ## done :
 -
 
 ## testé/validé :
-- rectangle.py
-- toit1.py
-- trait.py
-- github.py
-- couleur_aleatoire.py
+- rectangle.py (tom)
+- toit1.py (léa)
+- trait.py (kylian)
+- github.py (lucien)
+- couleur_aleatoire.py (lucien)
