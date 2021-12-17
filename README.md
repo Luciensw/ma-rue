@@ -1,18 +1,18 @@
 # ma-rue
 Go dessiner ma rue.
 
-to do :
+## to do :
 - toit2.py
 
-in progress :
+## in progress :
 - portes.py
 - balcon.py
 - fenetre.py
 
-done :
+## done :
 -
 
-testé/validé :
+## testé/validé :
 - rectangle.py
 - toit1.py
 - trait.py
