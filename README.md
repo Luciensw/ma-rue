@@ -2,9 +2,9 @@
 Go dessiner ma rue.
 
 ## to do :
-- toit2.py
-- facade.py
-- sol.py
+- toit2.py (lucien)
+- facade.py (facade)
+- sol.py (kylian)
 - rdc.py
 - etage.py
 - toit.py
