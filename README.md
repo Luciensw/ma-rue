@@ -19,6 +19,6 @@ Go dessiner ma rue.
 - rectangle.py (tom)
 - toit1.py (léa)
 - trait.py (kylian)
-- github.py (lucien)
+- github (lucien)
 - couleur_aleatoire.py (lucien)
 - facade.py (lucien)
