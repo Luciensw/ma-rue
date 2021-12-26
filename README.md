@@ -3,7 +3,6 @@ Go dessiner ma rue.
 
 ## to do :
 - toit2.py (lucien)
-- facade.py (facade)
 - sol.py (kylian)
 - rdc.py
 - etage.py
@@ -23,3 +22,4 @@ Go dessiner ma rue.
 - trait.py (kylian)
 - github.py (lucien)
 - couleur_aleatoire.py (lucien)
+- facade.py (lucien)
