@@ -3,18 +3,17 @@ Go dessiner ma rue.
 
 ## to do :
 - toit2.py (lucien)
-- sol.py (kylian)
 - rdc.py
 - etage.py
 - toit.py
 
 ## in progress :
 - portes.py (tom)
-- balcon.py (kylian)
 - fenetre.py (léa)
 
 ## done :
--
+- balcon.py (kylian)
+- sol.py (kylian)
 
 ## testé/validé :
 - rectangle.py (tom)
