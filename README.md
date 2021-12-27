@@ -12,8 +12,7 @@ Go dessiner ma rue.
 - fenetre.py (léa)
 
 ## done :
-- balcon.py (kylian)
-- sol.py (kylian)
+-
 
 ## testé/validé :
 - rectangle.py (tom)
@@ -22,3 +21,5 @@ Go dessiner ma rue.
 - github (lucien)
 - couleur_aleatoire.py (lucien)
 - facade.py (lucien)
+- balcon.py (kylian)
+- sol.py (kylian)
