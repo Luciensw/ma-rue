@@ -2,16 +2,17 @@
 Go dessiner ma rue.
 
 ## to do :
-- toit2.py (lucien)
+- immeuble.py
+- rue_finale.py
 - rdc.py (lucien)
 - etage.py
-- toit.py
 
 ## in progress :
 - portes.py (tom)
 
 ## done :
--
+- toit2.py (lucien)
+- toits.py (lucien)
 
 ## testé/validé :
 - rectangle.py (tom)
