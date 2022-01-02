@@ -2,17 +2,10 @@
 Go dessiner ma rue.
 
 ## to do :
-- immeuble.py
-- rue_finale.py
 
 ## in progress :
-- portes.py (tom)
-- rdc.py (lucien)
-- etage.py
 
 ## done :
-- toit2.py (lucien)
-- toits.py (lucien)
 
 ## testé/validé :
 - rectangle.py (tom)
@@ -24,3 +17,10 @@ Go dessiner ma rue.
 - balcon.py (kylian)
 - sol.py (kylian)
 - fenetre.py (lucien)
+- immeuble.py (lucien)
+- rue_finale.py (lucien)
+- portes.py (lucien)
+- rdc.py (lucien)
+- etage.py (lucien)
+- toit2.py (lucien)
+- toits.py (lucien)
