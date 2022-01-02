@@ -4,11 +4,11 @@ Go dessiner ma rue.
 ## to do :
 - immeuble.py
 - rue_finale.py
-- rdc.py (lucien)
-- etage.py
 
 ## in progress :
 - portes.py (tom)
+- rdc.py (lucien)
+- etage.py
 
 ## done :
 - toit2.py (lucien)
