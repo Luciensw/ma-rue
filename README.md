@@ -19,7 +19,7 @@ Go dessiner ma rue.
 - fenetre.py (lucien)
 - immeuble.py (lucien)
 - rue_finale.py (lucien)
-- portes.py (lucien)
+- portes.py (tom < lucien)
 - rdc.py (lucien)
 - etage.py (lucien)
 - toit2.py (lucien)
